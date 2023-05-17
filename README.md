@@ -1,5 +1,3 @@
-
-```markdown
 # Hardhat Fund Me
 
 This project is a basic version of a crowdfunding app.
@@ -94,4 +92,3 @@ In its current state, if you have your API key set, it will auto-verify sepolia 
 2. JavaScript
 
 # Thank you!
-```
