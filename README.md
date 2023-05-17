@@ -5,8 +5,8 @@ This project is a basic version of a crowdfunding app.
 ## Quick Start
 
 ```shell
-git clone project
-cd project
+git clone https://github.com/worksofallwin/hardhat-fund-me.git
+cd hardhat-fund-me
 yarn
 ```
 
