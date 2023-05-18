@@ -13,7 +13,7 @@ module.exports = async ({ deployments, getNamedAccounts }) => {
     const chainId = network.config.chainId;
 
     // contract has been created in test/MockV3Aggregator.sol
-    // Now we have deploy this contract
+    // Now we have to deploy this contract
     // But this contract should be deployed only while working with hardhat
     if (chainId === 31337) {
         log("Local network detected! Deploying mocks!!");
